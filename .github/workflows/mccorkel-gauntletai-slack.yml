@@ -15,7 +15,7 @@ env:
   AZURE_STATIC_WEBAPP_NAME: mccorkel-gauntletai-slack
   APP_DIRECTORY: GauntletSlack/GauntletSlack.Client/
   API_DIRECTORY: ''
-  OUTPUT: wwwroot
+  #OUTPUT: wwwroot
   DEPLOYMENT_ENVIRONMENT: preview
 jobs:
   build_and_deploy_job:
